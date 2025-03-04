@@ -13,4 +13,9 @@ public class CreateContactTest {
 	public void createContactWithDateTest() {
 		System.out.println("Execute createContactWithDateTest");
 	}
+	
+	@Test
+	public void deleteContact() {
+		System.out.println("Execute deleteContact");
+	}
 }
