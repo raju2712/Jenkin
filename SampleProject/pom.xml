@@ -13,6 +13,7 @@
 
 
 	<profiles>
+	
 		<profile>
 			<id>ST</id>
 
@@ -30,7 +31,6 @@
 					</plugin>
 				</plugins>
 			</build>
-
 		</profile>
 
 		<profile>
